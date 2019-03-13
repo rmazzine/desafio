@@ -2,7 +2,7 @@
 - Pastas:
   * data - Dados utilizados
   * script - Scripts da solução
-   * Python 3.6.5
+    * Python 3.6.5
   * output - Tabelas da solução
   
 # Decrição:
