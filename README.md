@@ -10,10 +10,10 @@
  cada item começa com um saldo inicial (para quantidade e valor).
  
  Deve-se calcular, para cada item em cada dia, as seguintes quantidades:
- Entrada - (somas) Quantidade e Valor
- Saída - (somas) Quantidade e Valor
- Saldo inicial - Quantidade e valor
- Saldo final - Quantidade e valor
+ * Entrada - (somas) Quantidade e Valor
+ * Saída - (somas) Quantidade e Valor
+ * Saldo inicial - Quantidade e valor
+ * Saldo final - Quantidade e valor
  
  O saldo final se baseia na equação:
  Saldo final = Saldo inicial + Entradas - Saídas
