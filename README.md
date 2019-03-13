@@ -3,6 +3,8 @@
   * data - Dados utilizados
   * script - Scripts da solução
     * Python 3.6.5
+    * O algorítimo solution_python tem uma leitura de código mais clara, porém, deve ser menos eficiente em grandes datasets
+    * O algorítimo solution_python_2 tem uma leitura menos clara, mas é mais eficiente em grandes datasets
   * output - Tabelas da solução
   
 # Decrição:
