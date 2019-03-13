@@ -16,5 +16,5 @@
  * Saldo final - Quantidade e valor
  
  O saldo final se baseia na equação:
- Saldo final = Saldo inicial + Entradas - Saídas
+ * Saldo final = Saldo inicial + Entradas - Saídas
  
